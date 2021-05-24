@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="the_colosseum">The Colosseum</string>
+    <string name="one_of_the_most_recognizable">One of the most recognizable</string>
+    <string name="Heading">Заголовок</string>
+    <string name="Description">Описание</string>
+</resources>
